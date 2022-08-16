@@ -1,10 +1,10 @@
-﻿# [AP/tracer] Coin (From Toaru Kagaku no Railgun) / 某科学的超电磁炮
+﻿# Toaru Kagaku no Railgun / 某科学的超电磁炮
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/DanColle-Railgun-Coin?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/DanColle-Railgun-Coin)
 ![GitHub issues](https://img.shields.io/github/issues-raw/SEA-group/DanColle-Railgun-Coin)
 
-AP shell model + tracer modification
+Shell model modification + different tracer color for each shell type
 
 ## Installation
 * **For WGC users**, copy `content` and `particles` into `[WoWS folder]/bin/[largest number]/res_mods/`
